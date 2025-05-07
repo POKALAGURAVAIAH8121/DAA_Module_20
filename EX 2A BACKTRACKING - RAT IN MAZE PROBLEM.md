@@ -84,7 +84,7 @@ if __name__ == "__main__":
     solveMaze(maze)
 ~~~
 ## Output:
-![image](https://github.com/user-attachments/assets/9e500fc6-264d-4e57-94ca-689e3863c78e)
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/9e500fc6-264d-4e57-94ca-689e3863c78e" />
 
 ## Result:
 The Rat in a Maze program executed successfully, and a valid path from the start to the destination was found and display.
